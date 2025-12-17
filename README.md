@@ -12,6 +12,8 @@
 <div align="center" style="margin: 40px 0">
   <p style="display: flex; flex-direction: column">
     <b>Dev Web • Full-Stack • Prototipação • SQL</b>
+  </p>
+  <p>
     Comunicação • Trabalho em equipe • Criatividade • Resiliência • Foco em qualidade
   </p>
 </div>
@@ -41,9 +43,9 @@ Procurando por meus feitos e contribuições? Recomendo começar por estes:
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/skills?languages=php,html,css,javascript,java&includeNames=true&theme=nord">
-
-  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=144265210&image_size=auto&color_scheme=dark">
 </p>
+
+![Metrics](./metrics.svg)
 
 <p>
   <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%">
@@ -54,10 +56,6 @@ Procurando por meus feitos e contribuições? Recomendo começar por estes:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp" />
   </a>
-</p>
-
-<p>
-  <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%">
 </p>
 
 ## ⭐ Interesses
