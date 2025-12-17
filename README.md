@@ -1,28 +1,75 @@
-<div align="center">
-    <h1>Olá mundo, sou a Radrígyla Fonseca!</h1>
-    <div style="margin-bottom: 20px;" align="center"> 
-        <a href="https://www.instagram.com/ado_ra_vel/" /><img align="center" style='border-radius: 5px;' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/radrígyla-fonseca-a08050300/" /><img align="center" style='border-radius: 5px;' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:radrigylafonseca@gmail.com"><img align="center" style='border-radius: 5px;'  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   </div>
-    <br>
-     <img style="border-radius: 20px; height: 200px;" src="https://github.com/RaCinthia/RaCinthia/assets/144265210/549d5d6a-2c81-439f-af34-5dcf8ccd2d28" />
-    <br>
-</div>
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Radrígyla%20Fonseca&animation=fadeIn&reversal=false&textBg=false&fontSize=50&section=header"></img>
+</p>
 
-<div align="center">
-  <a href="https://github.com/racinthia">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=racinthia&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=ffb6c1&icon_color=ffb6c1&title_color=add8e6&text_color=EEF8FF" />
-  <br><br>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinthia&layout=donut&langs_count=168&theme=transparent&border_color=ffb6c1&title_color=add8e6&text_color=EEF8FF" />
-</div>
-<div align='center'>  
-<br>
-  <img height="40px" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/radrígyla-fonseca-a08050300/">
+    <img loading="lazy" alt="LinkedIn" src="assets/linkedin.png" width="130px" style="margin: 0 7.5px;">
+  </a>
+  <img loading="lazy" alt="LinkedIn" src="assets/gmail.png" width="170px" style="margin: 0 7.5px;">
+</p>
+
+<div align="center" style="margin: 40px 0">
+  <p style="display: flex; flex-direction: column">
+    <b>Dev Web • Full-Stack • Prototipação • SQL</b>
+    Comunicação • Trabalho em equipe • Criatividade • Resiliência • Foco em qualidade
+  </p>
 </div>
 
-<!-- ![snake gif](https://github.com/racinthia/racinthia/blob/output/github-contribution-grid-snake.svg) -->
+<p>
+  <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%">
+</p>
+
+## 🎯 Por onde começar?
+<p>
+Procurando por meus feitos e contribuições? Recomendo começar por estes:
+</p>
+
+<a href="https://github.com/clube-amperistas/sistema-de-entrada">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clube-amperistas&repo=sistema-de-entrada&theme=nord">
+</a>
+
+<a href="https://github.com/radrigyla-fonseca/exercicios-curso">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=radrigyla-fonseca&repo=exercicios-curso&theme=nord">
+</a>
+
+<p>
+  <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%">
+</p>
+
+## 📊 Visão Geral
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=php,html,css,javascript,java&includeNames=true&theme=nord">
+
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=144265210&image_size=auto&color_scheme=dark">
+</p>
+
+<p>
+  <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%">
+</p>
+
+## 🌱 Aprendendo
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+  </a>
+</p>
+
+<p>
+  <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%">
+</p>
+
+## ⭐ Interesses
+
+- Sistemas Embarcados;
+- IoT (Internet of Things);
+- Robôs;
+- Desenvolvimento Web;
+- Design;
+- Artes.
+
+
+<!-- <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%"> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&background-color=E4959E:84A9C0&section=footer" width="100%">
