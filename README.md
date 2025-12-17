@@ -45,7 +45,7 @@ Procurando por meus feitos e contribuições? Recomendo começar por estes:
   <img src="https://github-widgetbox.vercel.app/api/skills?languages=php,html,css,javascript,java&includeNames=true&theme=nord">
 </p>
 
-![Metrics](./metrics.svg)
+![Metrics](./metrics.plugin.languages.svg)
 
 <p>
   <img src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.gif" width="100%">
