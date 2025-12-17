@@ -1,8 +1,10 @@
 name: Linguagens mais usadas
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -11,12 +13,12 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
+
           plugin_languages: yes
-          plugin_languages_colors: rainbow
           plugin_languages_limit: 4
-          plugin_languages_sections: recently-used
           plugin_languages_details: lines, bytes-size
-          plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
-          plugin_languages_skipped: lowlighter/metrics
+          plugin_languages_sections: most-used
+          plugin_languages_recent: yes
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
